@@ -1,7 +1,6 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 using SeleniumExtras.WaitHelpers;
-using System.Security.Cryptography.X509Certificates;
 
 namespace E2E_And_UI_POM.Pages
 {
