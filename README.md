@@ -22,6 +22,3 @@ Automation testing framework built using:
 - Selenium
 - NUnit(FrameWork)
 - FirefoxDriver
-
-## Author
-Muhammad Saad Qureshi.
